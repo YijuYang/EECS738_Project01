@@ -84,3 +84,6 @@ GMM:
 
 VBGMM:
 ![](image/result2-VBGMM.jpg "4")
+
+## Conclusion
+In most cases, VBGMM has a better result than GMM.
